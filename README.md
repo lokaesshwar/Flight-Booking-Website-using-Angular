@@ -1,2 +1,2 @@
 # Flight-Booking-Website-ANGULAR-
-This website created by Angular and typescript
+This website is created by Angular and typescript
